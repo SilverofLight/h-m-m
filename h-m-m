@@ -113,7 +113,7 @@ config($mm, 'focus_lock',            false);
 
 config($mm, 'max_undo_steps',        24);
 
-config($mm, 'active_node_color',     "\033[38;5;0m\033[48;5;172m\033[1m");
+config($mm, 'active_node_color',     "\033[38;5;0m\033[48;5;210m\033[1m");
 config($mm, 'message_color',         "\033[38;5;0m\033[48;5;141m\033[1m");
 config($mm, 'doubt_color',           "\033[38;5;168m");
 
